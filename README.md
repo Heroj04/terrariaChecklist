@@ -12,13 +12,13 @@ npm run dev
 
 Use `npm run build` to create a production build. The generated wiki snapshot is stored under `public/data/` and served locally; the app does not fetch checklist data at runtime.
 
-Item sprites are requested from the Terraria Wiki through the same-origin `/wiki-images` proxy in Vite development and preview. A production host must provide an equivalent reverse-proxy route to `https://terraria.wiki.gg/images`; sprites are not copied into this repository.
+Item sprites load directly from the Terraria Wiki URLs stored in the versioned data snapshot. Image loading depends on the Wiki allowing external embedding; no image proxy or bundled image copies are used.
 
 ## GitHub Pages
 
 The GitHub Actions workflow builds and deploys on published GitHub Releases; `workflow_dispatch` is also available for a manual deployment. In the repository settings, set **Pages → Build and deployment → Source** to **GitHub Actions**. The workflow builds the currently curated Terraria 1.4.5.8 data snapshot.
 
-GitHub Pages hosts static files only and cannot run the `/wiki-images` proxy. The checklist and saved progress work there, but Wiki sprites require a separate same-origin proxy, such as an edge function. The workflow does not download or rehost image files because reuse terms vary by image.
+GitHub Pages hosts the static app and data. Wiki sprites load from their direct external URLs; the workflow does not download or rehost images because reuse terms vary by image.
 
 ## Data snapshot
 

@@ -12,19 +12,6 @@ const CATEGORY_DESCRIPTIONS = {
   statues: 'Decorative finds, mechanisms, and text statues.',
 };
 
-function wikiImageSource(source) {
-  if (!source) return null;
-  try {
-    const image = new URL(source);
-    if (image.origin === 'https://terraria.wiki.gg' && image.pathname.startsWith('/images/')) {
-      return `${import.meta.env.BASE_URL}wiki-images${image.pathname}${image.search}`;
-    }
-  } catch {
-    return null;
-  }
-  return source;
-}
-
 function readProgress(version) {
   return Object.fromEntries(CATEGORY_ORDER.map((category) => {
     try {
@@ -39,7 +26,7 @@ function readProgress(version) {
 
 function ItemImage({ item }) {
   const [failed, setFailed] = useState(false);
-  const source = wikiImageSource(item.image);
+  const source = item.image;
   if (!source || failed) {
     return <span className="item-image item-image-fallback" aria-hidden="true" />;
   }
