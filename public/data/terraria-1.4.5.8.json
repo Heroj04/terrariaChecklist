@@ -1,0 +1,3272 @@
+{
+  "gameVersion": "1.4.5.8",
+  "wikiSnapshotDate": "2026-10-06",
+  "wikiRevision": "1032666 / 1024704 / 1032924",
+  "sources": {
+    "critters": "Critters",
+    "paintings": "Paintings",
+    "statues": "Statues"
+  },
+  "license": "CC BY-NC-SA 4.0 for wiki-derived article content; check file-specific terms for images.",
+  "counts": {
+    "critters": 96,
+    "paintings": 193,
+    "statues": 117
+  },
+  "items": {
+    "critters": [
+      {
+        "id": "item:2015",
+        "name": "Bird",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Bird.png?5c64c7",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Bird",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2016",
+        "name": "Blue Jay",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Blue_Jay.png?a36c81",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Blue_Jay",
+        "source": "Critters"
+      },
+      {
+        "id": "item:3194",
+        "name": "Buggy",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Buggy.png?ecfaa2",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Buggy",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2019",
+        "name": "Bunny",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Bunny.png?8d5133",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Bunny",
+        "source": "Critters"
+      },
+      {
+        "id": "item:1338",
+        "name": "Explosive Bunny",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Explosive_Bunny.png?6f6a2a",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Explosive_Bunny",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4838",
+        "name": "Amethyst Bunny",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Amethyst_Bunny.png?f0771d",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Amethyst_Bunny",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4839",
+        "name": "Topaz Bunny",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Topaz_Bunny.png?f20f3a",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Topaz_Bunny",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4840",
+        "name": "Sapphire Bunny",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Sapphire_Bunny.png?d87c97",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Sapphire_Bunny",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4841",
+        "name": "Emerald Bunny",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Emerald_Bunny.png?5a8c54",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Emerald_Bunny",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4842",
+        "name": "Ruby Bunny",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Ruby_Bunny.png?6b3916",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Ruby_Bunny",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4843",
+        "name": "Diamond Bunny",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Diamond_Bunny.png?a4606a",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Diamond_Bunny",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4844",
+        "name": "Amber Bunny",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Amber_Bunny.png?25ec2d",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Amber_Bunny",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2017",
+        "name": "Cardinal",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Cardinal.png?85a9f8",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Cardinal",
+        "source": "Critters"
+      },
+      {
+        "id": "item:5312",
+        "name": "Yellow Cockatiel",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Yellow_Cockatiel.png?8ac097",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Yellow_Cockatiel",
+        "source": "Critters"
+      },
+      {
+        "id": "item:5313",
+        "name": "Gray Cockatiel",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Gray_Cockatiel.png?e78164",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Gray_Cockatiel",
+        "source": "Critters"
+      },
+      {
+        "id": "wiki:Dolphin",
+        "name": "Dolphin",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Dolphin.png?ffc476",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Dolphin",
+        "source": "Critters"
+      },
+      {
+        "id": "item:5511",
+        "name": "Pufferfish",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Pufferfish.png?ad2d01",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Pufferfish",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2123",
+        "name": "Duck",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Duck.png?15905c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Duck",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2122",
+        "name": "Mallard Duck",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Mallard_Duck.png?349891",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Mallard_Duck",
+        "source": "Critters"
+      },
+      {
+        "id": "item:3191",
+        "name": "Enchanted Nightcrawler",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Enchanted_Nightcrawler.png?e4dfea",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Enchanted_Nightcrawler",
+        "source": "Critters"
+      },
+      {
+        "id": "item:5350",
+        "name": "Faeling",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Faeling.png?60d2b4",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Faeling",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4070",
+        "name": "Blue Fairy",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Blue_Fairy.png?4cd601",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Blue_Fairy",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4069",
+        "name": "Green Fairy",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Green_Fairy.png?afc925",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Green_Fairy",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4068",
+        "name": "Pink Fairy",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Pink_Fairy.png?448074",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Pink_Fairy",
+        "source": "Critters"
+      },
+      {
+        "id": "item:1992",
+        "name": "Firefly",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Firefly.png?d8497c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Firefly",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4847",
+        "name": "Lavafly",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Lavafly.png?8dd396",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Lavafly",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2004",
+        "name": "Lightning Bug",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Lightning_Bug.png?1cc297",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Lightning_Bug",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2121",
+        "name": "Frog",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Frog.png?8ee866",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Frog",
+        "source": "Critters"
+      },
+      {
+        "id": "wiki:Mystic_Frog",
+        "name": "Mystic Frog",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Mystic_Frog.png?dfddf9",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Mystic_Frog",
+        "source": "Critters"
+      },
+      {
+        "id": "item:261",
+        "name": "Goldfish",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Goldfish.png?5de6e9",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Goldfish",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2740",
+        "name": "Grasshopper",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Grasshopper.png?6cd843",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Grasshopper",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4374",
+        "name": "Grebe",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Grebe.png?698c9a",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Grebe",
+        "source": "Critters"
+      },
+      {
+        "id": "item:3192",
+        "name": "Grubby",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Grubby.png?4d50f0",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Grubby",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4361",
+        "name": "Ladybug",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Ladybug.png?8e817d",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Ladybug",
+        "source": "Critters"
+      },
+      {
+        "id": "item:5212",
+        "name": "Scarlet Macaw",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Scarlet_Macaw.png?19280b",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Scarlet_Macaw",
+        "source": "Critters"
+      },
+      {
+        "id": "item:5300",
+        "name": "Blue Macaw",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Blue_Macaw.png?b70177",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Blue_Macaw",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4363",
+        "name": "Maggot",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Maggot.png?9293c1",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Maggot",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2003",
+        "name": "Mouse",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Mouse.png?671fe9",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Mouse",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4395",
+        "name": "Owl",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Owl.png?cc30e3",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Owl",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2205",
+        "name": "Penguin",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Penguin.png?93a30a",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Penguin",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4373",
+        "name": "Pupfish",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Pupfish.png?56234e",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Pupfish",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4375",
+        "name": "Rat",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Rat.png?fd7374",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Rat",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2157",
+        "name": "Scorpion",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Scorpion.png?2e5582",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Scorpion",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2156",
+        "name": "Black Scorpion",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Black_Scorpion.png?5a833a",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Black_Scorpion",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4359",
+        "name": "Seagull",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Seagull.png?70777c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Seagull",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4480",
+        "name": "Seahorse",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Seahorse.png?ec5251",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Seahorse",
+        "source": "Critters"
+      },
+      {
+        "id": "item:3193",
+        "name": "Sluggy",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Sluggy.png?b2bbac",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Sluggy",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2006",
+        "name": "Snail",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Snail.png?90fcd4",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Snail",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2007",
+        "name": "Glowing Snail",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Glowing_Snail.png?caa023",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Glowing_Snail",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4849",
+        "name": "Magma Snail",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Magma_Snail.png?e849c1",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Magma_Snail",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2018",
+        "name": "Squirrel",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Squirrel.png?2f8d3a",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Squirrel",
+        "source": "Critters"
+      },
+      {
+        "id": "item:3563",
+        "name": "Red Squirrel",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Red_Squirrel.png?d16eb3",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Red_Squirrel",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4831",
+        "name": "Amethyst Squirrel",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Amethyst_Squirrel.png?e70b02",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Amethyst_Squirrel",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4832",
+        "name": "Topaz Squirrel",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Topaz_Squirrel.png?6062a7",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Topaz_Squirrel",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4833",
+        "name": "Sapphire Squirrel",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Sapphire_Squirrel.png?b21530",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Sapphire_Squirrel",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4834",
+        "name": "Emerald Squirrel",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Emerald_Squirrel.png?46ed09",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Emerald_Squirrel",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4835",
+        "name": "Ruby Squirrel",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Ruby_Squirrel.png?c45417",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Ruby_Squirrel",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4836",
+        "name": "Diamond Squirrel",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Diamond_Squirrel.png?340647",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Diamond_Squirrel",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4837",
+        "name": "Amber Squirrel",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Amber_Squirrel.png?a8c29f",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Amber_Squirrel",
+        "source": "Critters"
+      },
+      {
+        "id": "item:5132",
+        "name": "Stinkbug",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Stinkbug.png?2eb46f",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Stinkbug",
+        "source": "Critters"
+      },
+      {
+        "id": "item:5311",
+        "name": "Toucan",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Toucan.png?876f66",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Toucan",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4464",
+        "name": "Turtle",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Turtle.png?b0a12c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Turtle",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4465",
+        "name": "Jungle Turtle",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Jungle_Turtle.png?176d85",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Jungle_Turtle",
+        "source": "Critters"
+      },
+      {
+        "id": "wiki:Sea_Turtle",
+        "name": "Sea Turtle",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Sea_Turtle.png?6a4bab",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Sea_Turtle",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4418",
+        "name": "Water Strider",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Water_Strider.png?b099d6",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Water_Strider",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2002",
+        "name": "Worm",
+        "group": "Critters",
+        "image": "https://terraria.wiki.gg/images/Worm.png?d6bad2",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Worm",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2001",
+        "name": "Julia Butterfly",
+        "group": "Butterflies",
+        "image": "https://terraria.wiki.gg/images/Julia_Butterfly.png?a15623",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Julia_Butterfly",
+        "source": "Critters"
+      },
+      {
+        "id": "item:1994",
+        "name": "Monarch Butterfly",
+        "group": "Butterflies",
+        "image": "https://terraria.wiki.gg/images/Monarch_Butterfly.png?c694c7",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Monarch_Butterfly",
+        "source": "Critters"
+      },
+      {
+        "id": "item:1995",
+        "name": "Purple Emperor Butterfly",
+        "group": "Butterflies",
+        "image": "https://terraria.wiki.gg/images/Purple_Emperor_Butterfly.png?5b617f",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Purple_Emperor_Butterfly",
+        "source": "Critters"
+      },
+      {
+        "id": "item:1996",
+        "name": "Red Admiral Butterfly",
+        "group": "Butterflies",
+        "image": "https://terraria.wiki.gg/images/Red_Admiral_Butterfly.png?2a46c6",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Red_Admiral_Butterfly",
+        "source": "Critters"
+      },
+      {
+        "id": "item:1998",
+        "name": "Sulphur Butterfly",
+        "group": "Butterflies",
+        "image": "https://terraria.wiki.gg/images/Sulphur_Butterfly.png?a8476d",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Sulphur_Butterfly",
+        "source": "Critters"
+      },
+      {
+        "id": "item:1999",
+        "name": "Tree Nymph Butterfly",
+        "group": "Butterflies",
+        "image": "https://terraria.wiki.gg/images/Tree_Nymph_Butterfly.png?1469c1",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Tree_Nymph_Butterfly",
+        "source": "Critters"
+      },
+      {
+        "id": "item:1997",
+        "name": "Ulysses Butterfly",
+        "group": "Butterflies",
+        "image": "https://terraria.wiki.gg/images/Ulysses_Butterfly.png?24ad5b",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Ulysses_Butterfly",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2000",
+        "name": "Zebra Swallowtail Butterfly",
+        "group": "Butterflies",
+        "image": "https://terraria.wiki.gg/images/Zebra_Swallowtail_Butterfly.png?bd3789",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Zebra_Swallowtail_Butterfly",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4845",
+        "name": "Hell Butterfly",
+        "group": "Butterflies",
+        "image": "https://terraria.wiki.gg/images/Hell_Butterfly.png?2cfaf9",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Hell_Butterfly",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4961",
+        "name": "Prismatic Lacewing",
+        "group": "Gold critters",
+        "image": "https://terraria.wiki.gg/images/Prismatic_Lacewing.png?cc80d1",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Prismatic_Lacewing",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4334",
+        "name": "Black Dragonfly",
+        "group": "Dragonflies",
+        "image": "https://terraria.wiki.gg/images/Black_Dragonfly.png?1a1e3a",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Black_Dragonfly",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4335",
+        "name": "Blue Dragonfly",
+        "group": "Dragonflies",
+        "image": "https://terraria.wiki.gg/images/Blue_Dragonfly.png?291375",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Blue_Dragonfly",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4336",
+        "name": "Green Dragonfly",
+        "group": "Dragonflies",
+        "image": "https://terraria.wiki.gg/images/Green_Dragonfly.png?c00fbf",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Green_Dragonfly",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4337",
+        "name": "Orange Dragonfly",
+        "group": "Dragonflies",
+        "image": "https://terraria.wiki.gg/images/Orange_Dragonfly.png?33d76f",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Orange_Dragonfly",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4338",
+        "name": "Red Dragonfly",
+        "group": "Dragonflies",
+        "image": "https://terraria.wiki.gg/images/Red_Dragonfly.png?c1b232",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Red_Dragonfly",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4339",
+        "name": "Yellow Dragonfly",
+        "group": "Dragonflies",
+        "image": "https://terraria.wiki.gg/images/Yellow_Dragonfly.png?9d27bd",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Yellow_Dragonfly",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2889",
+        "name": "Gold Bird",
+        "group": "Gold critters",
+        "image": "https://terraria.wiki.gg/images/Gold_Bird.png?594c70",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Gold_Bird",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2890",
+        "name": "Gold Bunny",
+        "group": "Gold critters",
+        "image": "https://terraria.wiki.gg/images/Gold_Bunny.png?c9f09e",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Gold_Bunny",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2891",
+        "name": "Gold Butterfly",
+        "group": "Gold critters",
+        "image": "https://terraria.wiki.gg/images/Gold_Butterfly.png?2801de",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Gold_Butterfly",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4340",
+        "name": "Gold Dragonfly",
+        "group": "Gold critters",
+        "image": "https://terraria.wiki.gg/images/Gold_Dragonfly.png?1d9ea0",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Gold_Dragonfly",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2892",
+        "name": "Gold Frog",
+        "group": "Gold critters",
+        "image": "https://terraria.wiki.gg/images/Gold_Frog.png?fd70fd",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Gold_Frog",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4274",
+        "name": "Gold Goldfish",
+        "group": "Gold critters",
+        "image": "https://terraria.wiki.gg/images/Gold_Goldfish.png?a83e80",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Gold_Goldfish",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2893",
+        "name": "Gold Grasshopper",
+        "group": "Gold critters",
+        "image": "https://terraria.wiki.gg/images/Gold_Grasshopper.png?56d3e3",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Gold_Grasshopper",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4362",
+        "name": "Gold Ladybug",
+        "group": "Gold critters",
+        "image": "https://terraria.wiki.gg/images/Gold_Ladybug.png?12f0db",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Gold_Ladybug",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2894",
+        "name": "Gold Mouse",
+        "group": "Gold critters",
+        "image": "https://terraria.wiki.gg/images/Gold_Mouse.png?1e9f44",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Gold_Mouse",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4482",
+        "name": "Gold Seahorse",
+        "group": "Gold critters",
+        "image": "https://terraria.wiki.gg/images/Gold_Seahorse.png?ee0948",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Gold_Seahorse",
+        "source": "Critters"
+      },
+      {
+        "id": "item:3564",
+        "name": "Gold Squirrel",
+        "group": "Gold critters",
+        "image": "https://terraria.wiki.gg/images/Gold_Squirrel.png?fd9e76",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Gold_Squirrel",
+        "source": "Critters"
+      },
+      {
+        "id": "item:4419",
+        "name": "Gold Water Strider",
+        "group": "Gold critters",
+        "image": "https://terraria.wiki.gg/images/Gold_Water_Strider.png?5d1bad",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Gold_Water_Strider",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2895",
+        "name": "Gold Worm",
+        "group": "Gold critters",
+        "image": "https://terraria.wiki.gg/images/Gold_Worm.png?4e8060",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Gold_Worm",
+        "source": "Critters"
+      },
+      {
+        "id": "item:2673",
+        "name": "Truffle Worm",
+        "group": "Gold critters",
+        "image": "https://terraria.wiki.gg/images/Truffle_Worm.png?d64925",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Truffle_Worm",
+        "source": "Critters"
+      }
+    ],
+    "paintings": [
+      {
+        "id": "item:4658",
+        "name": "The Rolling Greens",
+        "group": "From Golfer",
+        "image": "https://terraria.wiki.gg/images/The_Rolling_Greens.png?bb4adc",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Rolling_Greens",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4659",
+        "name": "Study of a Ball at Rest",
+        "group": "From Golfer",
+        "image": "https://terraria.wiki.gg/images/Study_of_a_Ball_at_Rest.png?3e09be",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Study_of_a_Ball_at_Rest",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4660",
+        "name": "Fore!",
+        "group": "From Golfer",
+        "image": "https://terraria.wiki.gg/images/Fore%21.png?743f05",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Fore!",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4661",
+        "name": "The Duplicity of Reflections",
+        "group": "From Golfer",
+        "image": "https://terraria.wiki.gg/images/The_Duplicity_of_Reflections.png?482268",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Duplicity_of_Reflections",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1481",
+        "name": "First Encounter",
+        "group": "From Painter",
+        "image": "https://terraria.wiki.gg/images/First_Encounter.png?ecbe0d",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/First_Encounter",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1482",
+        "name": "Good Morning",
+        "group": "From Painter",
+        "image": "https://terraria.wiki.gg/images/Good_Morning.png?e0b294",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Good_Morning",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1483",
+        "name": "Underground Reward",
+        "group": "From Painter",
+        "image": "https://terraria.wiki.gg/images/Underground_Reward.png?63e9dc",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Underground_Reward",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1484",
+        "name": "Through the Window",
+        "group": "From Painter",
+        "image": "https://terraria.wiki.gg/images/Through_the_Window.png?9e21fe",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Through_the_Window",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1485",
+        "name": "Place Above the Clouds",
+        "group": "From Painter",
+        "image": "https://terraria.wiki.gg/images/Place_Above_the_Clouds.png?7d3807",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Place_Above_the_Clouds",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1486",
+        "name": "Do Not Step on the Grass",
+        "group": "From Painter",
+        "image": "https://terraria.wiki.gg/images/Do_Not_Step_on_the_Grass.png?bfd8f6",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Do_Not_Step_on_the_Grass",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1487",
+        "name": "Cold Waters in the White Land",
+        "group": "From Painter",
+        "image": "https://terraria.wiki.gg/images/Cold_Waters_in_the_White_Land.png?dc823d",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Cold_Waters_in_the_White_Land",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1488",
+        "name": "Lightless Chasms",
+        "group": "From Painter",
+        "image": "https://terraria.wiki.gg/images/Lightless_Chasms.png?1bd3a2",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Lightless_Chasms",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1489",
+        "name": "The Land of Deceiving Looks",
+        "group": "From Painter",
+        "image": "https://terraria.wiki.gg/images/The_Land_of_Deceiving_Looks.png?383888",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Land_of_Deceiving_Looks",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1490",
+        "name": "Daylight",
+        "group": "From Painter",
+        "image": "https://terraria.wiki.gg/images/Daylight.png?3f679e",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Daylight",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1491",
+        "name": "Secret of the Sands",
+        "group": "From Painter",
+        "image": "https://terraria.wiki.gg/images/Secret_of_the_Sands.png?557621",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Secret_of_the_Sands",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1492",
+        "name": "Deadland Comes Alive",
+        "group": "From Painter",
+        "image": "https://terraria.wiki.gg/images/Deadland_Comes_Alive.png?777d76",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Deadland_Comes_Alive",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1493",
+        "name": "Evil Presence",
+        "group": "From Painter",
+        "image": "https://terraria.wiki.gg/images/Evil_Presence.png?34afc1",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Evil_Presence",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1494",
+        "name": "Sky Guardian",
+        "group": "From Painter",
+        "image": "https://terraria.wiki.gg/images/Sky_Guardian.png?5d4ea8",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Sky_Guardian",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5245",
+        "name": "Purity",
+        "group": "From Painter",
+        "image": "https://terraria.wiki.gg/images/Purity.png?e41736",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Purity",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5251",
+        "name": "Thunderbolt",
+        "group": "From Painter",
+        "image": "https://terraria.wiki.gg/images/Thunderbolt.png?f2bce7",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Thunderbolt",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5491",
+        "name": "Winter At Varingskollen",
+        "group": "From Painter",
+        "image": "https://terraria.wiki.gg/images/Winter_At_Varingskollen.png?68dbd8",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Winter_At_Varingskollen",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4723",
+        "name": "Nevermore",
+        "group": "From Painter in a Graveyard",
+        "image": "https://terraria.wiki.gg/images/Nevermore.png?7cf19c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Nevermore",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4724",
+        "name": "Reborn",
+        "group": "From Painter in a Graveyard",
+        "image": "https://terraria.wiki.gg/images/Reborn.png?af9ee2",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Reborn",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4725",
+        "name": "Graveyard",
+        "group": "From Painter in a Graveyard",
+        "image": "https://terraria.wiki.gg/images/Graveyard_%28item%29.png?91efc1",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Graveyard",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4726",
+        "name": "Ghost Manifestation",
+        "group": "From Painter in a Graveyard",
+        "image": "https://terraria.wiki.gg/images/Ghost_Manifestation.png?f3893c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Ghost_Manifestation",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4727",
+        "name": "Wicked Undead",
+        "group": "From Painter in a Graveyard",
+        "image": "https://terraria.wiki.gg/images/Wicked_Undead.png?1c884e",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Wicked_Undead",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4728",
+        "name": "Bloody Goblet",
+        "group": "From Painter in a Graveyard",
+        "image": "https://terraria.wiki.gg/images/Bloody_Goblet.png?1db425",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Bloody_Goblet",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4729",
+        "name": "Still Life",
+        "group": "From Painter in a Graveyard",
+        "image": "https://terraria.wiki.gg/images/Still_Life.png?9c038d",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Still_Life",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5257",
+        "name": "Hail to the King",
+        "group": "From Painter in a Graveyard",
+        "image": "https://terraria.wiki.gg/images/Hail_to_the_King.png?526163",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Hail_to_the_King",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5085",
+        "name": "Princess 64",
+        "group": "From Princess",
+        "image": "https://terraria.wiki.gg/images/Princess_64.png?a115fc",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Princess_64",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5086",
+        "name": "Painting of a Lass",
+        "group": "From Princess",
+        "image": "https://terraria.wiki.gg/images/Painting_of_a_Lass.png?f3a8cc",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Painting_of_a_Lass",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5087",
+        "name": "Dark Side of the Hallow",
+        "group": "From Princess",
+        "image": "https://terraria.wiki.gg/images/Dark_Side_of_the_Hallow.png?b1aa7e",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Dark_Side_of_the_Hallow",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5222",
+        "name": "Suspiciously Sparkly",
+        "group": "From Princess",
+        "image": "https://terraria.wiki.gg/images/Suspiciously_Sparkly.png?c1ea0e",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Suspiciously_Sparkly",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5228",
+        "name": "Terra Blade Chronicles",
+        "group": "From Princess",
+        "image": "https://terraria.wiki.gg/images/Terra_Blade_Chronicles.png?185e72",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Terra_Blade_Chronicles",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5266",
+        "name": "Royal Romance",
+        "group": "From Princess",
+        "image": "https://terraria.wiki.gg/images/Royal_Romance.png?a7a24a",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Royal_Romance",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5310",
+        "name": "Princess Style",
+        "group": "From Princess",
+        "image": "https://terraria.wiki.gg/images/Princess_Style.png?e8d8ab",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Princess_Style",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5308",
+        "name": "r/Terraria",
+        "group": "From Clothier",
+        "image": "https://terraria.wiki.gg/images/R_Terraria.png?feefbd",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/r%2FTerraria",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5630",
+        "name": "r/Terraria 2023",
+        "group": "From Clothier",
+        "image": "https://terraria.wiki.gg/images/R_Terraria_2023.png?7efcd7",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/r%2FTerraria_2023",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:2865",
+        "name": "Castle Marsberg",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/Castle_Marsberg.png?283cdb",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Castle_Marsberg",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:2866",
+        "name": "Martia Lisa",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/Martia_Lisa.png?7238a8",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Martia_Lisa",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:2867",
+        "name": "The Truth Is Up There",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/The_Truth_Is_Up_There.png?b5ec4c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Truth_Is_Up_There",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:3055",
+        "name": "Acorns",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/Acorns.png?a44cc8",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Acorns",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:3056",
+        "name": "Cold Snap",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/Cold_Snap.png?d93bf4",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Cold_Snap",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:3057",
+        "name": "Cursed Saint",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/Cursed_Saint.png?e5caa2",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Cursed_Saint",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:3058",
+        "name": "Snowfellas",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/Snowfellas.png?728237",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Snowfellas",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:3059",
+        "name": "The Season",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/The_Season.png?24afdc",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Season",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:3596",
+        "name": "Not a Kid, nor a Squid",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/Not_a_Kid%2C_nor_a_Squid.png?8c2c42",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Not_a_Kid%2C_nor_a_Squid",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5121",
+        "name": "The Gentleman Scientist",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/The_Gentleman_Scientist.png?f81da7",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Gentleman_Scientist",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5122",
+        "name": "The Firestarter",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/The_Firestarter.png?6ee920",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Firestarter",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5123",
+        "name": "The Bereaved",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/The_Bereaved.png?542518",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Bereaved",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5124",
+        "name": "The Strongman",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/The_Strongman.png?ae05df",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Strongman",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5225",
+        "name": "Kargoh's Summon",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/Kargoh%27s_Summon.png?b47f24",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Kargoh's_Summon",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5229",
+        "name": "Benny Warhol",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/Benny_Warhol.png?192634",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Benny_Warhol",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5232",
+        "name": "Duality",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/Duality.png?cd9af5",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Duality",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5233",
+        "name": "Parsec Pals",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/Parsec_Pals.png?ec396c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Parsec_Pals",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5241",
+        "name": "Do Not Eat the Vile Mushroom!",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/Do_Not_Eat_the_Vile_Mushroom%21.png?64e189",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Do_Not_Eat_the_Vile_Mushroom!",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5242",
+        "name": "Yuuma, The Blue Tiger",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/Yuuma%2C_The_Blue_Tiger.png?d57d17",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Yuuma%2C_The_Blue_Tiger",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5243",
+        "name": "Moonman & Company",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/Moonman_%26_Company.png?608bb3",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Moonman_%26_Company",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5244",
+        "name": "Sunshine of Israpony",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/Sunshine_of_Israpony.png?8565de",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Sunshine_of_Israpony",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5389",
+        "name": "Cheesy Pizza Poster",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/Cheesy_Pizza_Poster.png?d2c5e5",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Cheesy_Pizza_Poster",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5487",
+        "name": "Heroes From Another World",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/Heroes_From_Another_World.png?ad4406",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Heroes_From_Another_World",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5530",
+        "name": "Stickman vs Terr Terr",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/Stickman_vs_Terr_Terr.png?9a7a63",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Stickman_vs_Terr_Terr",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5531",
+        "name": "Cozy Window",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/Cozy_Window.png?d328f7",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Cozy_Window",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5633",
+        "name": "Oktober",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/Oktober.png?c66835",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Oktober",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5636",
+        "name": "Prost",
+        "group": "From Traveling Merchant",
+        "image": "https://terraria.wiki.gg/images/Prost.png?db6273",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Prost",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5231",
+        "name": "My Son",
+        "group": "From Truffle",
+        "image": "https://terraria.wiki.gg/images/My_Son.png?8d6460",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/My_Son",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5253",
+        "name": "The Werewolf",
+        "group": "From Zoologist",
+        "image": "https://terraria.wiki.gg/images/The_Werewolf.png?adb606",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Werewolf",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5635",
+        "name": "Kaguya",
+        "group": "From Zoologist",
+        "image": "https://terraria.wiki.gg/images/Kaguya.png?dc6b2d",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Kaguya",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4626",
+        "name": "Andrew Sphinx",
+        "group": "Desert Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Andrew_Sphinx.png?d1f32a",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Andrew_Sphinx",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4627",
+        "name": "Watchful Antlion",
+        "group": "Desert Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Watchful_Antlion.png?83471c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Watchful_Antlion",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4628",
+        "name": "Burning Spirit",
+        "group": "Desert Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Burning_Spirit.png?93d41a",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Burning_Spirit",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4629",
+        "name": "Jaws of Death",
+        "group": "Desert Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Jaws_of_Death.png?bbddd2",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Jaws_of_Death",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4630",
+        "name": "The Sands of Slime",
+        "group": "Desert Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/The_Sands_of_Slime.png?e9934d",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Sands_of_Slime",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4631",
+        "name": "Snakes, I Hate Snakes",
+        "group": "Desert Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Snakes%2C_I_Hate_Snakes.png?a6d24c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Snakes%2C_I_Hate_Snakes",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4632",
+        "name": "Life Above the Sand",
+        "group": "Desert Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Life_Above_the_Sand.png?f35abf",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Life_Above_the_Sand",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4633",
+        "name": "Oasis",
+        "group": "Desert Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Oasis.png?569cde",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Oasis",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4634",
+        "name": "Prehistory Preserved",
+        "group": "Desert Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Prehistory_Preserved.png?cfdf74",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Prehistory_Preserved",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4635",
+        "name": "Ancient Tablet",
+        "group": "Desert Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Ancient_Tablet.png?ac4150",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Ancient_Tablet",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4636",
+        "name": "Uluru",
+        "group": "Desert Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Uluru.png?200dea",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Uluru",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4637",
+        "name": "Visiting the Pyramids",
+        "group": "Desert Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Visiting_the_Pyramids.png?a09bec",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Visiting_the_Pyramids",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4638",
+        "name": "Bandage Boy",
+        "group": "Desert Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Bandage_Boy.png?7fb86c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Bandage_Boy",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:4639",
+        "name": "Divine Eye",
+        "group": "Desert Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Divine_Eye.png?246a70",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Divine_Eye",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1427",
+        "name": "Sunflowers",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Sunflowers.png?6bd17c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Sunflowers",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1428",
+        "name": "Terrarian Gothic",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Terrarian_Gothic.png?427592",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Terrarian_Gothic",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1440",
+        "name": "Guide Picasso",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Guide_Picasso.png?d880b0",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Guide_Picasso",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1442",
+        "name": "Father of Someone",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Father_of_Someone.png?1cbec6",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Father_of_Someone",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1443",
+        "name": "Nurse Lisa",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Nurse_Lisa.png?8631f1",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Nurse_Lisa",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1474",
+        "name": "Waldo",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Waldo.png?c6b5de",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Waldo",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1477",
+        "name": "Land",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Land.png?564751",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Land",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1480",
+        "name": "Finding Gold",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Finding_Gold.png?e4de4c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Finding_Gold",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1495",
+        "name": "American Explosive",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/American_Explosive.png?5bf708",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/American_Explosive",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1496",
+        "name": "Discover",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Discover.png?1f04dc",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Discover",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1498",
+        "name": "Old Miner",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Old_Miner.png?c4d619",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Old_Miner",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1574",
+        "name": "The Merchant",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/The_Merchant.png?b8a999",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Merchant",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1575",
+        "name": "Crowno Devours His Lunch",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Crowno_Devours_His_Lunch.png?edf4cb",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Crowno_Devours_His_Lunch",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1576",
+        "name": "Rare Enchantment",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Rare_Enchantment.png?347a8f",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Rare_Enchantment",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1577",
+        "name": "Glorious Night",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Glorious_Night.png?72f0ec",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Glorious_Night",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5218",
+        "name": "Outcast",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Outcast.png?ee9cfa",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Outcast",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5219",
+        "name": "Fairy Guides",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Fairy_Guides.png?c2551a",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Fairy_Guides",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5220",
+        "name": "A Horrible Night for Alchemy",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/A_Horrible_Night_for_Alchemy.png?2b7f69",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/A_Horrible_Night_for_Alchemy",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5221",
+        "name": "Morning Hunt",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Morning_Hunt.png?6e396e",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Morning_Hunt",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5224",
+        "name": "Cat Sword",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Cat_Sword.png?17d9c4",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Cat_Sword",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5246",
+        "name": "Sufficiently Advanced",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Sufficiently_Advanced.png?d9d83d",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Sufficiently_Advanced",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5247",
+        "name": "Strange Growth",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Strange_Growth.png?c131d2",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Strange_Growth",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5248",
+        "name": "Happy Little Tree",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Happy_Little_Tree.png?b60b4a",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Happy_Little_Tree",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5249",
+        "name": "Strange Dead Fellows",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Strange_Dead_Fellows.png?b3460c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Strange_Dead_Fellows",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5250",
+        "name": "Secrets",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Secrets.png?3d7fe5",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Secrets",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5267",
+        "name": "Bioluminescence",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Bioluminescence.png?839a5a",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Bioluminescence",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5268",
+        "name": "Wildflowers",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Wildflowers.png?f603e1",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Wildflowers",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5269",
+        "name": "Viking Voyage",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Viking_Voyage.png?d3da59",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Viking_Voyage",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5270",
+        "name": "Bifrost",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Bifrost.png?545e1f",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Bifrost",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5271",
+        "name": "Heartlands",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Heartlands.png?47b299",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Heartlands",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5272",
+        "name": "Forest Troll",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Forest_Troll.png?b3a6b6",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Forest_Troll",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5273",
+        "name": "Aurora Borealis",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Aurora_Borealis.png?f80edf",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Aurora_Borealis",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5529",
+        "name": "Banner of the Beast",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Banner_of_the_Beast.png?af4dcc",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Banner_of_the_Beast",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5631",
+        "name": "Bould and Bash",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Bould_and_Bash.png?53f37c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Bould_and_Bash",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5929",
+        "name": "Remix",
+        "group": "Other Underground Cabins",
+        "image": "https://terraria.wiki.gg/images/Remix_%28item%29.png?9a2807",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Remix",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1372",
+        "name": "Blood Moon Rising",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/Blood_Moon_Rising.png?317d85",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Blood_Moon_Rising",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1373",
+        "name": "The Hanged Man",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/The_Hanged_Man.png?acd621",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Hanged_Man",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1374",
+        "name": "Glory of the Fire",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/Glory_of_the_Fire.png?b738d8",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Glory_of_the_Fire",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1375",
+        "name": "Bone Warp",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/Bone_Warp.png?6458cf",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Bone_Warp",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1419",
+        "name": "Skellington J Skellingsworth",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/Skellington_J_Skellingsworth.png?4213eb",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Skellington_J_Skellingsworth",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1420",
+        "name": "The Cursed Man",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/The_Cursed_Man.png?1d274f",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Cursed_Man",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1421",
+        "name": "The Eye Sees the End",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/The_Eye_Sees_the_End.png?6d2f09",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Eye_Sees_the_End",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1422",
+        "name": "Something Evil is Watching You",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/Something_Evil_is_Watching_You.png?d91ae2",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Something_Evil_is_Watching_You",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1423",
+        "name": "The Twins Have Awoken",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/The_Twins_Have_Awoken.png?e3cd31",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Twins_Have_Awoken",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1424",
+        "name": "The Screamer",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/The_Screamer.png?545df7",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Screamer",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1425",
+        "name": "Goblins Playing Poker",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/Goblins_Playing_Poker.png?808cf7",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Goblins_Playing_Poker",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1426",
+        "name": "Dryadisque",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/Dryadisque.png?6bef87",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Dryadisque",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1433",
+        "name": "Impact",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/Impact.png?4e530f",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Impact",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1434",
+        "name": "Powered by Birds",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/Powered_by_Birds.png?c6b247",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Powered_by_Birds",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1435",
+        "name": "The Destroyer",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/The_Destroyer_%28item%29.png?5a3355",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Destroyer",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1436",
+        "name": "The Persistency of Eyes",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/The_Persistency_of_Eyes.png?e68a65",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Persistency_of_Eyes",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1437",
+        "name": "Unicorn Crossing the Hallows",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/Unicorn_Crossing_the_Hallows.png?6944f1",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Unicorn_Crossing_the_Hallows",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1438",
+        "name": "Great Wave",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/Great_Wave.png?6f1ea8",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Great_Wave",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1439",
+        "name": "Starry Night",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/Starry_Night.png?a86a55",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Starry_Night",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1441",
+        "name": "The Guardian's Gaze",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/The_Guardian%27s_Gaze.png?737448",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Guardian's_Gaze",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1500",
+        "name": "Facing the Cerebral Mastermind",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/Facing_the_Cerebral_Mastermind.png?7e4d07",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Facing_the_Cerebral_Mastermind",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1502",
+        "name": "Trio Super Heroes",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/Trio_Super_Heroes.png?c8288d",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Trio_Super_Heroes",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1573",
+        "name": "The Creation of the Guide",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/The_Creation_of_the_Guide.png?ecdb9b",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Creation_of_the_Guide",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:2995",
+        "name": "Sparky",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/Sparky.png?19b629",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Sparky",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5234",
+        "name": "Remnants of Devotion",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/Remnants_of_Devotion.png?5b22cb",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Remnants_of_Devotion",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5632",
+        "name": "Dark Forebodings",
+        "group": "Dungeon",
+        "image": "https://terraria.wiki.gg/images/Dark_Forebodings.png?ab4b13",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Dark_Forebodings",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1475",
+        "name": "Darkness",
+        "group": "The Underworld",
+        "image": "https://terraria.wiki.gg/images/Darkness_%28item%29.png?567509",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Darkness",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1476",
+        "name": "Dark Soul Reaper",
+        "group": "The Underworld",
+        "image": "https://terraria.wiki.gg/images/Dark_Soul_Reaper.png?44ff11",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Dark_Soul_Reaper",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1478",
+        "name": "Trapped Ghost",
+        "group": "The Underworld",
+        "image": "https://terraria.wiki.gg/images/Trapped_Ghost.png?318d47",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Trapped_Ghost",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1479",
+        "name": "Demon's Eye",
+        "group": "The Underworld",
+        "image": "https://terraria.wiki.gg/images/Demon%27s_Eye.png?77e8f7",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Demon's_Eye",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1497",
+        "name": "Hand Earth",
+        "group": "The Underworld",
+        "image": "https://terraria.wiki.gg/images/Hand_Earth.png?a6bf52",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Hand_Earth",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1499",
+        "name": "Skelehead",
+        "group": "The Underworld",
+        "image": "https://terraria.wiki.gg/images/Skelehead.png?72f54f",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Skelehead",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1501",
+        "name": "Lake of Fire",
+        "group": "The Underworld",
+        "image": "https://terraria.wiki.gg/images/Lake_of_Fire.png?84a76e",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Lake_of_Fire",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1538",
+        "name": "Imp Face",
+        "group": "The Underworld",
+        "image": "https://terraria.wiki.gg/images/Imp_Face.png?a86da0",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Imp_Face",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1539",
+        "name": "Ominous Presence",
+        "group": "The Underworld",
+        "image": "https://terraria.wiki.gg/images/Ominous_Presence.png?de40f9",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Ominous_Presence",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1540",
+        "name": "Shining Moon",
+        "group": "The Underworld",
+        "image": "https://terraria.wiki.gg/images/Shining_Moon.png?acbfdf",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Shining_Moon",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1541",
+        "name": "Living Gore",
+        "group": "The Underworld",
+        "image": "https://terraria.wiki.gg/images/Living_Gore.png?40dc69",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Living_Gore",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1542",
+        "name": "Flowing Magma",
+        "group": "The Underworld",
+        "image": "https://terraria.wiki.gg/images/Flowing_Magma.png?cd87d2",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Flowing_Magma",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5226",
+        "name": "High Pitch",
+        "group": "Floating Islands",
+        "image": "https://terraria.wiki.gg/images/High_Pitch.png?ae9ea4",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/High_Pitch",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5238",
+        "name": "Constellation",
+        "group": "Floating Islands",
+        "image": "https://terraria.wiki.gg/images/Constellation_%28painting%29.png?7d6824",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Constellation",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5254",
+        "name": "Blessing from the Heavens",
+        "group": "Floating Islands",
+        "image": "https://terraria.wiki.gg/images/Blessing_from_the_Heavens.png?c2ebf9",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Blessing_from_the_Heavens",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5255",
+        "name": "Love is in the Trash Slot",
+        "group": "Floating Islands",
+        "image": "https://terraria.wiki.gg/images/Love_is_in_the_Trash_Slot.png?75c7ac",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Love_is_in_the_Trash_Slot",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5258",
+        "name": "See The World For What It Is",
+        "group": "Floating Islands",
+        "image": "https://terraria.wiki.gg/images/See_The_World_For_What_It_Is.png?88d02b",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/See_The_World_For_What_It_Is",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5388",
+        "name": "Eye of the Sun",
+        "group": "Floating Islands",
+        "image": "https://terraria.wiki.gg/images/Eye_of_the_Sun.png?8e59d7",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Eye_of_the_Sun",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5240",
+        "name": "Dread of the Red Sea",
+        "group": "Fishing",
+        "image": "https://terraria.wiki.gg/images/Dread_of_the_Red_Sea.png?b55ced",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Dread_of_the_Red_Sea",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5274",
+        "name": "Lady Of The Lake",
+        "group": "Fishing",
+        "image": "https://terraria.wiki.gg/images/Lady_Of_The_Lake.png?f6135c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Lady_Of_The_Lake",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5634",
+        "name": "It's Scragglin' Time",
+        "group": "Fishing",
+        "image": "https://terraria.wiki.gg/images/It%27s_Scragglin%27_Time.png?a6cc6f",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/It's_Scragglin'_Time",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5490",
+        "name": "Brasilian Skies",
+        "group": "Fishing",
+        "image": "https://terraria.wiki.gg/images/Brasilian_Skies.png?91a55d",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Brasilian_Skies",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5527",
+        "name": "Of Sea and Dreams",
+        "group": "Fishing",
+        "image": "https://terraria.wiki.gg/images/Of_Sea_and_Dreams.png?7122c9",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Of_Sea_and_Dreams",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5230",
+        "name": "Lizard King",
+        "group": "Temple",
+        "image": "https://terraria.wiki.gg/images/Lizard_King.png?498595",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Lizard_King",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1846",
+        "name": "Jacking Skeletron",
+        "group": "Goodie Bags",
+        "image": "https://terraria.wiki.gg/images/Jacking_Skeletron.png?6be06e",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Jacking_Skeletron",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1847",
+        "name": "Bitter Harvest",
+        "group": "Goodie Bags",
+        "image": "https://terraria.wiki.gg/images/Bitter_Harvest.png?ea1330",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Bitter_Harvest",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1848",
+        "name": "Blood Moon Countess",
+        "group": "Goodie Bags",
+        "image": "https://terraria.wiki.gg/images/Blood_Moon_Countess.png?73cb7c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Blood_Moon_Countess",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1849",
+        "name": "Hallow's Eve",
+        "group": "Goodie Bags",
+        "image": "https://terraria.wiki.gg/images/Hallow%27s_Eve.png?820955",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Hallow's_Eve",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:1850",
+        "name": "Morbid Curiosity",
+        "group": "Goodie Bags",
+        "image": "https://terraria.wiki.gg/images/Morbid_Curiosity.png?cfd046",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Morbid_Curiosity",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5223",
+        "name": "Requiem",
+        "group": "Solar Eclipse",
+        "image": "https://terraria.wiki.gg/images/Requiem.png?725d19",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Requiem",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5227",
+        "name": "A Machine for Terrarians",
+        "group": "Solar Eclipse",
+        "image": "https://terraria.wiki.gg/images/A_Machine_for_Terrarians.png?cdbd4c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/A_Machine_for_Terrarians",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5236",
+        "name": "Ocular Resonance",
+        "group": "Solar Eclipse",
+        "image": "https://terraria.wiki.gg/images/Ocular_Resonance.png?be4567",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Ocular_Resonance",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5237",
+        "name": "Wings of Evil",
+        "group": "Solar Eclipse",
+        "image": "https://terraria.wiki.gg/images/Wings_of_Evil.png?bfa556",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Wings_of_Evil",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5239",
+        "name": "Eyezorhead",
+        "group": "Solar Eclipse",
+        "image": "https://terraria.wiki.gg/images/Eyezorhead.png?9c88e4",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Eyezorhead",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5260",
+        "name": "This Is Getting Out Of Hand",
+        "group": "Solar Eclipse",
+        "image": "https://terraria.wiki.gg/images/This_Is_Getting_Out_Of_Hand.png?6b67db",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/This_Is_Getting_Out_Of_Hand",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5261",
+        "name": "Buddies",
+        "group": "Solar Eclipse",
+        "image": "https://terraria.wiki.gg/images/Buddies.png?c2b52a",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Buddies",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5262",
+        "name": "Midnight Sun",
+        "group": "Solar Eclipse",
+        "image": "https://terraria.wiki.gg/images/Midnight_Sun.png?cd2f59",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Midnight_Sun",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:2497",
+        "name": "Pillagin' Me Pixels",
+        "group": "Angler quest rewards",
+        "image": "https://terraria.wiki.gg/images/Pillagin%27_Me_Pixels.png?d296d4",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Pillagin'_Me_Pixels",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5235",
+        "name": "Not So Lost In Paradise",
+        "group": "Angler quest rewards",
+        "image": "https://terraria.wiki.gg/images/Not_So_Lost_In_Paradise.png?5145a9",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Not_So_Lost_In_Paradise",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5252",
+        "name": "Crustography",
+        "group": "Angler quest rewards",
+        "image": "https://terraria.wiki.gg/images/Crustography.png?d60d17",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Crustography",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5256",
+        "name": "Fangs",
+        "group": "Angler quest rewards",
+        "image": "https://terraria.wiki.gg/images/Fangs.png?748459",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Fangs",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5259",
+        "name": "What Lurks Below",
+        "group": "Angler quest rewards",
+        "image": "https://terraria.wiki.gg/images/What_Lurks_Below.png?ecbfe8",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/What_Lurks_Below",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5263",
+        "name": "Couch Gag",
+        "group": "Angler quest rewards",
+        "image": "https://terraria.wiki.gg/images/Couch_Gag.png?b5d840",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Couch_Gag",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5264",
+        "name": "Silent Fish",
+        "group": "Angler quest rewards",
+        "image": "https://terraria.wiki.gg/images/Silent_Fish.png?5a836d",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Silent_Fish",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5265",
+        "name": "The Duke",
+        "group": "Angler quest rewards",
+        "image": "https://terraria.wiki.gg/images/The_Duke.png?508a34",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Duke",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5528",
+        "name": "The Runic Pixie",
+        "group": "Living Tree",
+        "image": "https://terraria.wiki.gg/images/The_Runic_Pixie.png?180404",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Runic_Pixie",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5483",
+        "name": "Queen of Bees",
+        "group": "From enemies",
+        "image": "https://terraria.wiki.gg/images/Queen_of_Bees.png?a115bd",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Queen_of_Bees",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5486",
+        "name": "The Sea of Silence",
+        "group": "From enemies",
+        "image": "https://terraria.wiki.gg/images/The_Sea_of_Silence.png?e3423c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/The_Sea_of_Silence",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5488",
+        "name": "Crystallize",
+        "group": "From enemies",
+        "image": "https://terraria.wiki.gg/images/Crystallize.png?76a22e",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Crystallize",
+        "source": "Paintings"
+      },
+      {
+        "id": "item:5489",
+        "name": "Eater Of Life",
+        "group": "From enemies",
+        "image": "https://terraria.wiki.gg/images/Eater_Of_Life.png?c91e01",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Eater_Of_Life",
+        "source": "Paintings"
+      }
+    ],
+    "statues": [
+      {
+        "id": "item:3719",
+        "name": "Armed Zombie Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Armed_Zombie_Statue_%28placed%29.png?8b2b27",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Armed_Zombie_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:443",
+        "name": "Bat Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Bat_Statue_%28placed%29.png?4ffc25",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Bat_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3720",
+        "name": "Blood Zombie Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Blood_Zombie_Statue_%28placed%29.png?8069d7",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Blood_Zombie_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3712",
+        "name": "Bone Skeleton Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Bone_Skeleton_Statue_%28placed%29.png?5217ba",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Bone_Skeleton_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:463",
+        "name": "Chest Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Chest_Statue_%28placed%29.png?1b85fb",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Chest_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:466",
+        "name": "Corrupt Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Corrupt_Statue_%28placed%29.png?571b13",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Corrupt_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:454",
+        "name": "Crab Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Crab_Statue_%28placed%29.png?d1c144",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Crab_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3710",
+        "name": "Drippler Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Drippler_Statue_%28placed%29.png?d264af",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Drippler_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:471",
+        "name": "Eyeball Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Eyeball_Statue_%28placed%29.png?1f3ad2",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Eyeball_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:441",
+        "name": "Goblin Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Goblin_Statue_%28placed%29.png?4dbc58",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Goblin_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3718",
+        "name": "Granite Golem Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Granite_Golem_Statue_%28placed%29.png?d4b033",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Granite_Golem_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3715",
+        "name": "Harpy Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Harpy_Statue_%28placed%29.png?7e8aaf",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Harpy_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3717",
+        "name": "Hoplite Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Hoplite_Statue_%28placed%29.png?91c1a8",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Hoplite_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:452",
+        "name": "Hornet Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Hornet_Statue_%28placed%29.png?a3eeb4",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Hornet_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:449",
+        "name": "Imp Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Imp_Statue_%28placed%29.png?e9f021",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Imp_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:459",
+        "name": "Jellyfish Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Jellyfish_Statue_%28placed%29.png?5e6e90",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Jellyfish_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3714",
+        "name": "Medusa Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Medusa_Statue_%28placed%29.png?256849",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Medusa_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3716",
+        "name": "Pigron Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Pigron_Statue_%28placed%29.png?220c48",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Pigron_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:478",
+        "name": "Piranha Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Piranha_Statue_%28placed%29.png?f3ef9f",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Piranha_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:2672",
+        "name": "Shark Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Shark_Statue_%28placed%29.png?251098",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Shark_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:446",
+        "name": "Skeleton Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Skeleton_Statue_%28placed%29.png?262d54",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Skeleton_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:440",
+        "name": "Slime Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Slime_Statue_%28placed%29.png?fad6a3",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Slime_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3713",
+        "name": "Undead Viking Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Undead_Viking_Statue_%28placed%29.png?b1092a",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Undead_Viking_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3709",
+        "name": "Unicorn Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Unicorn_Statue_%28placed%29.png?cf9218",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Unicorn_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3708",
+        "name": "Wall Creeper Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Wall_Creeper_Statue_%28placed%29.png?859f02",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Wall_Creeper_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3711",
+        "name": "Wraith Statue",
+        "group": "Enemy statues",
+        "image": "https://terraria.wiki.gg/images/Wraith_Statue_%28placed%29.png?bce310",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Wraith_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:464",
+        "name": "Bird Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Bird_Statue_%28placed%29.png?442a16",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Bird_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3662",
+        "name": "Buggy Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Buggy_Statue_%28placed%29.png?d2a0f4",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Buggy_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:445",
+        "name": "Bunny Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Bunny_Statue_%28placed%29.png?a27551",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Bunny_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3652",
+        "name": "Butterfly Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Butterfly_Statue_%28placed%29.png?1b20d2",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Butterfly_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:5319",
+        "name": "Cockatiel Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Cockatiel_Statue_%28placed%29.png?611a89",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Cockatiel_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:4342",
+        "name": "Dragonfly Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Dragonfly_Statue_%28placed%29.png?cab2f7",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Dragonfly_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3659",
+        "name": "Duck Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Duck_Statue_%28placed%29.png?54febb",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Duck_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3654",
+        "name": "Firefly Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Firefly_Statue_%28placed%29.png?8db721",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Firefly_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:444",
+        "name": "Fish Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Fish_Statue_%28placed%29.png?661f51",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Fish_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3661",
+        "name": "Frog Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Frog_Statue_%28placed%29.png?c8f9ce",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Frog_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3657",
+        "name": "Grasshopper Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Grasshopper_Statue_%28placed%29.png?71bb22",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Grasshopper_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:5317",
+        "name": "Macaw Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Macaw_Statue_%28placed%29.png?a0e5ac",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Macaw_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3658",
+        "name": "Mouse Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Mouse_Statue_%28placed%29.png?6378d6",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Mouse_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:4397",
+        "name": "Owl Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Owl_Statue_%28placed%29.png?432324",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Owl_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3660",
+        "name": "Penguin Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Penguin_Statue_%28placed%29.png?51f215",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Penguin_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3655",
+        "name": "Scorpion Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Scorpion_Statue_%28placed%29.png?1f04dd",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Scorpion_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:4360",
+        "name": "Seagull Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Seagull_Statue_%28placed%29.png?72f371",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Seagull_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3656",
+        "name": "Snail Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Snail_Statue_%28placed%29.png?9e1497",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Snail_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3651",
+        "name": "Squirrel Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Squirrel_Statue_%28placed%29.png?64e528",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Squirrel_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:5318",
+        "name": "Toucan Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Toucan_Statue_%28placed%29.png?ad4465",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Toucan_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:4466",
+        "name": "Turtle Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Turtle_Statue_%28placed%29.png?b9b138",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Turtle_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:3653",
+        "name": "Worm Statue",
+        "group": "Critter statues",
+        "image": "https://terraria.wiki.gg/images/Worm_Statue_%28placed%29.png?72153a",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Worm_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:476",
+        "name": "King Statue",
+        "group": "Other statues",
+        "image": "https://terraria.wiki.gg/images/King_Statue_%28placed%29.png?922a06",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/King_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:477",
+        "name": "Queen Statue",
+        "group": "Other statues",
+        "image": "https://terraria.wiki.gg/images/Queen_Statue_%28placed%29.png?2bf641",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Queen_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:453",
+        "name": "Bomb Statue",
+        "group": "Other statues",
+        "image": "https://terraria.wiki.gg/images/Bomb_Statue_%28placed%29.png?4f7414",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Bomb_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:473",
+        "name": "Heart Statue",
+        "group": "Other statues",
+        "image": "https://terraria.wiki.gg/images/Heart_Statue_%28placed%29.png?af3361",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Heart_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:438",
+        "name": "Star Statue",
+        "group": "Other statues",
+        "image": "https://terraria.wiki.gg/images/Star_Statue_%28placed%29.png?47285b",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Star_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:470",
+        "name": "Mushroom Statue",
+        "group": "Other statues",
+        "image": "https://terraria.wiki.gg/images/Mushroom_Statue_activation_and_deaction_Animated.gif?a681e6",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Mushroom_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:4355",
+        "name": "Boulder Statue",
+        "group": "Other statues",
+        "image": "https://terraria.wiki.gg/images/Boulder_Statue_%28placed%29.png?3717cf",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Boulder_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:4276",
+        "name": "Bast Statue",
+        "group": "Other statues",
+        "image": "https://terraria.wiki.gg/images/Bast_Statue_%28placed%29.png?f020bf",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Bast_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "item:52",
+        "name": "Angel Statue",
+        "group": "Other statues",
+        "image": "https://terraria.wiki.gg/images/Angel_Statue_%28placed%29.png?735099",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Angel_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Anvil_Statue",
+        "name": "Anvil Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Anvil_Statue_%28placed%29.png?fe412c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Anvil_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Armor_Statue",
+        "name": "Armor Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Armor_Statue_%28placed%29.png?a7830b",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Armor_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Axe_Statue",
+        "name": "Axe Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Axe_Statue_%28placed%29.png?105876",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Axe_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Boomerang_Statue",
+        "name": "Boomerang Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Boomerang_Statue_%28placed%29.png?7d20e9",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Boomerang_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Boot_Statue",
+        "name": "Boot Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Boot_Statue_%28placed%29.png?6e49d1",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Boot_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Bow_Statue",
+        "name": "Bow Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Bow_Statue_%28placed%29.png?7cf77b",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Bow_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Cross_Statue",
+        "name": "Cross Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Cross_Statue_%28placed%29.png?62193f",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Cross_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Gargoyle_Statue",
+        "name": "Gargoyle Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Gargoyle_Statue_%28placed%29.png?208a58",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Gargoyle_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Gloom_Statue",
+        "name": "Gloom Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Gloom_Statue_%28placed%29.png?a8aa09",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Gloom_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Hammer_Statue",
+        "name": "Hammer Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Hammer_Statue_%28placed%29.png?842489",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Hammer_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Pickaxe_Statue",
+        "name": "Pickaxe Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Pickaxe_Statue_%28placed%29.png?db79dc",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Pickaxe_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Pillar_Statue",
+        "name": "Pillar Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Pillar_Statue_%28placed%29.png?8ef354",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Pillar_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Pot_Statue",
+        "name": "Pot Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Pot_Statue_%28placed%29.png?fc81a4",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Pot_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Potion_Statue",
+        "name": "Potion Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Potion_Statue_%28placed%29.png?bc79db",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Potion_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Reaper_Statue",
+        "name": "Reaper Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Reaper_Statue_%28placed%29.png?b23f84",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Reaper_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Shield_Statue",
+        "name": "Shield Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Shield_Statue_%28placed%29.png?2483e1",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Shield_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Spear_Statue",
+        "name": "Spear Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Spear_Statue_%28placed%29.png?659317",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Spear_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Sunflower_Statue",
+        "name": "Sunflower Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Sunflower_Statue_%28placed%29.png?fb4fd6",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Sunflower_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Sword_Statue",
+        "name": "Sword Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Sword_Statue_%28placed%29.png?50e04a",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Sword_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Tree_Statue",
+        "name": "Tree Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Tree_Statue_%28placed%29.png?5975ff",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Tree_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Woman_Statue",
+        "name": "Woman Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Woman_Statue_%28placed%29.png?d7d709",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Woman_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Lihzahrd_Statue",
+        "name": "Lihzahrd Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Lihzahrd_Statue_%28placed%29.png?2009ae",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Lihzahrd_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Lihzahrd_Guardian_Statue",
+        "name": "Lihzahrd Guardian Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Lihzahrd_Guardian_Statue_%28placed%29.png?72ff19",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Lihzahrd_Guardian_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:Lihzahrd_Watcher_Statue",
+        "name": "Lihzahrd Watcher Statue",
+        "group": "Decorative statues",
+        "image": "https://terraria.wiki.gg/images/Lihzahrd_Watcher_Statue_%28placed%29.png?1edd2a",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/Lihzahrd_Watcher_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'A'_Statue",
+        "name": "'A' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27A%27_Statue_%28placed%29.png?3a578b",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'A'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'B'_Statue",
+        "name": "'B' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27B%27_Statue_%28placed%29.png?7b171c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'B'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'C'_Statue",
+        "name": "'C' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27C%27_Statue_%28placed%29.png?2e5866",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'C'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'D'_Statue",
+        "name": "'D' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27D%27_Statue_%28placed%29.png?aeb548",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'D'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'E'_Statue",
+        "name": "'E' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27E%27_Statue_%28placed%29.png?15bc26",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'E'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'F'_Statue",
+        "name": "'F' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27F%27_Statue_%28placed%29.png?19dbd2",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'F'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'G'_Statue",
+        "name": "'G' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27G%27_Statue_%28placed%29.png?8c5310",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'G'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'H'_Statue",
+        "name": "'H' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27H%27_Statue_%28placed%29.png?fbbfbf",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'H'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'I'_Statue",
+        "name": "'I' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27I%27_Statue_%28placed%29.png?5b2757",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'I'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'J'_Statue",
+        "name": "'J' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27J%27_Statue_%28placed%29.png?c20874",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'J'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'K'_Statue",
+        "name": "'K' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27K%27_Statue_%28placed%29.png?d48018",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'K'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'L'_Statue",
+        "name": "'L' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27L%27_Statue_%28placed%29.png?fc1c90",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'L'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'M'_Statue",
+        "name": "'M' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27M%27_Statue_%28placed%29.png?362d6e",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'M'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'N'_Statue",
+        "name": "'N' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27N%27_Statue_%28placed%29.png?2aac21",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'N'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'O'_Statue",
+        "name": "'O' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27O%27_Statue_%28placed%29.png?c596af",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'O'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'P'_Statue",
+        "name": "'P' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27P%27_Statue_%28placed%29.png?d91b4f",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'P'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'Q'_Statue",
+        "name": "'Q' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27Q%27_Statue_%28placed%29.png?e0bcaa",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'Q'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'R'_Statue",
+        "name": "'R' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27R%27_Statue_%28placed%29.png?3e2ef4",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'R'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'S'_Statue",
+        "name": "'S' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27S%27_Statue_%28placed%29.png?81c167",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'S'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'T'_Statue",
+        "name": "'T' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27T%27_Statue_%28placed%29.png?51a83c",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'T'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'U'_Statue",
+        "name": "'U' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27U%27_Statue_%28placed%29.png?62f8c5",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'U'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'V'_Statue",
+        "name": "'V' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27V%27_Statue_%28placed%29.png?8ea6ea",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'V'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'W'_Statue",
+        "name": "'W' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27W%27_Statue_%28placed%29.png?9448a1",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'W'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'X'_Statue",
+        "name": "'X' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27X%27_Statue_%28placed%29.png?b9bfab",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'X'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'Y'_Statue",
+        "name": "'Y' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27Y%27_Statue_%28placed%29.png?a36885",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'Y'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'Z'_Statue",
+        "name": "'Z' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%27Z%27_Statue_%28placed%29.png?618cb3",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'Z'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'0'_Statue",
+        "name": "'0' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%270%27_Statue_%28placed%29.png?23ebbf",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'0'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'1'_Statue",
+        "name": "'1' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%271%27_Statue_%28placed%29.png?e6ac30",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'1'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'2'_Statue",
+        "name": "'2' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%272%27_Statue_%28placed%29.png?255e3d",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'2'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'3'_Statue",
+        "name": "'3' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%273%27_Statue_%28placed%29.png?b51165",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'3'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'4'_Statue",
+        "name": "'4' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%274%27_Statue_%28placed%29.png?d1e073",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'4'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'5'_Statue",
+        "name": "'5' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%275%27_Statue_%28placed%29.png?ced03e",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'5'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'6'_Statue",
+        "name": "'6' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%276%27_Statue_%28placed%29.png?6cba2e",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'6'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'7'_Statue",
+        "name": "'7' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%277%27_Statue_%28placed%29.png?d54db3",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'7'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'8'_Statue",
+        "name": "'8' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%278%27_Statue_%28placed%29.png?289334",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'8'_Statue",
+        "source": "Statues"
+      },
+      {
+        "id": "wiki:'9'_Statue",
+        "name": "'9' Statue",
+        "group": "Text statues",
+        "image": "https://terraria.wiki.gg/images/%279%27_Statue_%28placed%29.png?c78f74",
+        "wikiUrl": "https://terraria.wiki.gg/wiki/'9'_Statue",
+        "source": "Statues"
+      }
+    ]
+  }
+}
